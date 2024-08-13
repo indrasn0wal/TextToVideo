@@ -10,7 +10,4 @@ Here are some example videos generated using the pipeline:
 - **Spider-Man surfing**  
 ![Spider man surfing](generated_videos/Spiderman_surfing.gif)
 ## Prerequisites
-- ```torch```
-- ```diffusers```
-- ```transformers```
-- ```accelerate```
+- ```torch``` ```diffusers``` ```transformers``` ```accelerate```
