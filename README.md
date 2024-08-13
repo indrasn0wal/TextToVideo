@@ -14,5 +14,3 @@ Here are some example videos generated using the pipeline:
 - ```diffusers```
 - ```transformers```
 - ```accelerate```
-
-Download the colab files, and Run it. 
