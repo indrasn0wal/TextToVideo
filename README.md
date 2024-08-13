@@ -5,10 +5,10 @@ Text-to-Video Generator is an innovative project that uses advanced generative A
 ## Example Videos
 Here are some example videos generated using the pipeline:
 - **Dog Eating a Slice of Pizza**
-  ![Dog Eating Pizza](generated_videos/Dogg_eating_pizza.gif)
+![Dog Eating Pizza](generated_videos/Dogg_eating_pizza.gif)
 
 - **Spider-Man surfing**  
-  ![Spider man surfing](generated_videos/Spiderman_surfing.gif)
+![Spider man surfing](generated_videos/Spiderman_surfing.gif)
 ## Prerequisites
 - ```torch```
 - ```diffusers```
